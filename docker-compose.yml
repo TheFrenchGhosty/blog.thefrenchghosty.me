@@ -1,0 +1,8 @@
+services:
+
+  blog:
+    container_name: blog
+    image: quay.io/thefrenchghosty/wiki.thefrenchghosty.me:latest
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3003:80"
