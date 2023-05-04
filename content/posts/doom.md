@@ -13,7 +13,7 @@ For reference: I played them with the [GZDoom](https://zdoom.org/) source port, 
 
 ## The Games
 
-Doom (1993) has some amazing levels, episode 1 and 4 being the strongest in my opinion ([E4M2: Perfect Hatred](https://redirect.invidious.io/watch?v=vRGUDAwj4wQ)) being one of the level I loved the most), it obviously has some levels that aren't so great, but all in all, I do think it's the strongest of the two.
+Doom (1993) has some amazing levels, episode 1 and 4 being the strongest in my opinion ([E4M2: Perfect Hatred](https://redirect.invidious.io/watch?v=vRGUDAwj4wQ) being one of the level I loved the most), it obviously has some levels that aren't so great, but all in all, I do think it's the strongest of the two.
 
 Doom 2 (1994) is good, don't get me wrong, but it's a more messy, there's far too much fillers and unfunny "find the hidden key" levels. From what I discovered, this makes sense though, since the game was made in 10 months, and almost all the levels (18 out of 32) were made by a single guy: [Sandy Petersen](https://doomwiki.org/wiki/Sandy_Petersen). Some of the levels are truly great (like the first level of the game [E1M1](https://www.youtube.com/watch?v=JZfhQiVW4gM), which is one of the most interesting way to teach people to explore to find secrets).
 
