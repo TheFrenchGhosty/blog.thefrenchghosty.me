@@ -50,7 +50,7 @@ params:
     description: "TheFrenchGhosty's Blog"
     author: TheFrenchGhosty
     defaultTheme: auto
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: true
     ShowToc: true
     ShowBreadCrumbs: true
