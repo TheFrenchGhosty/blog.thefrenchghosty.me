@@ -20,7 +20,7 @@ Invidious also isn't "me" or "mine", therefore, I wasn't asked anything.
 
 This is the important part, which make this whole e-mail unapplicable by me by design.
 
-Invidious isn't my project, I don't own the "Invidious" trademark, I'm not Invidious, I don't represent Invidious. I'm just... me.
+Invidious isn't my project, I don't own Invidious or the "Invidious" trademark, I'm not Invidious, I don't represent Invidious. I'm just... me.
 
 Invidious **is**.
 
