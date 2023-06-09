@@ -14,13 +14,13 @@ The e-mail is addressed "To Whom It May Concern", the reality is that it doesn't
 
 The e-mail continues with "We recently became aware of your product or service, Invidious (“Your Client”), which is being offered at invidious.io." here lies the important part:
 
-Invidious isn't my "product or service", it isn't "my Client". Moreover it isn't "offered at invidious.io" (though, it is unrelated to the premise of this post).
+Invidious isn't my "product or service", it isn't "my Client". I don't own any part of it and it isn't trademarked by me. Moreover it isn't "offered at invidious.io" (though, it is unrelated to the premise of this post). 
 
-Invidious also isn't "me", therefore, I wasn't asked anything.
+Invidious also isn't "me" or "mine", therefore, I wasn't asked anything.
 
 This is the important part, which make this whole e-mail unapplicable by me by design.
 
-Invidious isn't my project, I'm not Invidious, I don't represent Invidious. I'm just... me.
+Invidious isn't my project, I don't own the "Invidious" trademark, I'm not Invidious, I don't represent Invidious. I'm just... me.
 
 Invidious **is**.
 
