@@ -23,9 +23,10 @@ During those years I spent my time trying to find a way to be - at least moderat
 
 It takes effort, but some years ago I found a way: making as much ethical and moral choice as possible, in short: doing and being good.
 
-**Everything I've been doing for years is made, even indirectly, for good.**
+**Everything I've been doing since is made, even indirectly, for good.**
 
 What I do in FOSS is purely for GOOD.
+
 PussTheCat.org is motivated only by GOOD.
 
 Today, my life is built almost exclusively around GOOD, and my life goal is to have a house with a lot of land used to "save" and "help" animals, an animal sanctuary of some sort, but where animals are roaming free.
@@ -33,14 +34,14 @@ Today, my life is built almost exclusively around GOOD, and my life goal is to h
 
 # Humanity as a whole
 
-Humanity as a whole can't be changed, but you can at least bring good things to as much people as possible, people you know, or strangers (hello to the strangers reading this).
+Humanity as a whole can't be changed, you surely already noticed that, but you can at least bring good things to as much people as possible, people you know, or complete strangers (hello to the strangers reading this).
 
-It wont change the world, you wont receive anything comparable to what you give, you will more than likely feel lonely, but in the end, it is the right thing to do. It will change *your* world.
+It wont change the world, you wont receive anything comparable to what you gave, you will more than likely feel lonely, but in the end, it is the right thing to do. It will change *your* world.
 
 
 # Conclusion
 
-I am the antithesis to most human being, I know that (which is why I am basically alone). The last few years showed me that I'm mostly alone in this effort and that it's basically never appreciated. I accept it though, again, because it's the right choice.
+I am the antithesis to most human being, I know that (which is why I am basically almost always alone). The last few years showed me that people that do the right things are rare and that it's basically never appreciated. I accept it though, again, because it's the right choice.
 
 When the end comes, I will know that, at least, I did as much good as I could.
 
