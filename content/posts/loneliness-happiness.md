@@ -65,7 +65,7 @@ I went back to my original city... where I didn't know anyone but my family.
 
 ## The Present
 
-So it's been some years now that I've been back, and it's been some years since I haven't talked to a friend.
+So it's been some years now that I've been back, and it's been some years since I talked to a friend.
 
 When I got back I almost couldn't accept it, I purposely didn't try to meet new people. It's been years now, and the only people I talk to are my family and my work colleagues.
 
