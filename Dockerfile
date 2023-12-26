@@ -1,4 +1,4 @@
-FROM docker.io/archlinux:latest as build
+FROM archlinux:latest as build
 COPY . /src
 RUN pacman -S --noconfirm hugo \ 
     && cd /src \
