@@ -3,7 +3,7 @@ title: "I'm Not Invidious"
 date: 2023-06-09T17:57:52+02:00
 aliases: ["/im-not-invidious"]
 tags: ["invidious", "FOSS", "software"]
-draft: false
+draft: true
 ---
 
 On June 8, 2023 Invidious received an e-mail from Google/YouTube to ask the project to be stopped.
