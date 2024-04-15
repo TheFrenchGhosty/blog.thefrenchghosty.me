@@ -31,3 +31,5 @@ I plan to spend at least 3-6 months full time on it at the beginning.
 I'd like to thanks, again, all the people that encouraged me and donated over the years, it means a lot to me.
 
 Stay tuned! I love you all! <3
+
+PS: to be clear, the PussTheCat.org ownership wont be transferred to the company, it will remain completely independent - just with the same person behind it
