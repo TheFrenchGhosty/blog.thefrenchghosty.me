@@ -9,7 +9,7 @@ draft: false
 After almost 2 years working as an IT technician (doing basically the job of a SysAdmin... for a lower salary), I was "invited to leave" by HR and accepted, I am now officially unemployed.
 
 
-# What does this mean for [PussTheCat.org](https://pussthecat.org):
+# What does this mean for PussTheCat.org
 
 In short [PussTheCat.org](https://pussthecat.org) will remain as is... partially (see _what's next_ bellow).
 I started to fix longstanding "issues" of it recently (moving Rimgo to another server, updating/enhancing the homepage...) and it will continue (I also plan to deploy at least one more privacy frontend).
@@ -17,7 +17,7 @@ I started to fix longstanding "issues" of it recently (moving Rimgo to another s
 
 # What's next and what does it matter for you?
 
-I have had a plan in my head for more than a year now: this plan being to make a " [PussTheCat.org](https://pussthecat.org) on steroid "
+I have had a plan in my head for more than a year now: this plan being to make a "[PussTheCat.org](https://pussthecat.org) on steroid" (I'm not sharing exact details on my plan yet).
 
 This is now what I plan to do: I'll open my own company (don't worry, I don't plan to turn it into a shit one), and go try to do this project.
 
