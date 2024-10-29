@@ -47,7 +47,7 @@ I started by checking the registrar of [France](https://www.domainstate.com/coun
 
 I also quickly checked the registrar of the Netherlands and Norway, but didn't really find anything more "go-to" registrars.
 
-After this first overview, I decided to dig more into 2 registrars: [Infomaniak](https://www.infomaniak.com/) and [Netim](https://www.netim.com/) to see if they could be good choices…
+After this first overview, I decided to dig more into 2 registrars: [Infomaniak](https://www.infomaniak.com/) and [Netim](https://www.netim.com/) to see if they could be good choices...
 
 
 # Digging more into Infomaniak
