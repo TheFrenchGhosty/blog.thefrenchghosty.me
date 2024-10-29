@@ -8,7 +8,7 @@ draft: false
 
 # Context
 
-This blog post is reminder for people who haven't already watched it (or who haven't heard about it).
+This blog post is a reminder for people who haven't already watched it (or who haven't heard about it).
 
 Back in late 2023 (times flies... I planned to write this blog post months ago) I was a guest on Brodie Robertson's ([Invidious](https://redirect.invidious.io/channel/UCld68syR8Wi-GY_n4CaoJGA) | [YouTube](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)) podcast, Tech Over Tea ([Invidious](https://redirect.invidious.io/channel/UCBq5p-xOla8xhnrbhu8AIAg) | [YouTube](https://www.youtube.com/channel/UCBq5p-xOla8xhnrbhu8AIAg)), where we talked about Invidious, YouTube, adblockers, privacy... and everything in between (along with lots and lots of rambling)!
 

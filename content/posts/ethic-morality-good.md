@@ -10,16 +10,16 @@ draft: false
 
 This blog post is based on a discussion that took place on Matrix.
 
-This discussion was about humanity's ethics and morality, and the fact that humanity as a whole is screwed because it wont change its ways, and that morality, as a whole, isn't important to most humans. To quote someone who participated in this discussion: "you can't expect miracles [...] where humanity in general is at least flawed and at most malicious".
+This discussion was about humanity's ethics and morality, and the fact that humanity as a whole is screwed because it won't change its ways, and that morality, as a whole, isn't important to most humans. To quote someone who participated in this discussion: "you can't expect miracles [...] where humanity in general is at least flawed and at most malicious".
 
-The main example that was used was meat and animal products production (I am vegan for the reasons you will understand bellow), but this discussion could have used dozens/hundreds of other examples.
+The main example that was used was meat and animal products' production (I am vegan for the reasons you will understand below), but this discussion could have used dozens/hundreds of other examples.
 
 
 # Myself
 
 I went depressed when I became an adult after realizing how screwed and awful the world is, I refused to accept it. It lasted years, and still partially affects me (as proven by the fact that this discussion and this blog post happened).
 
-During those years I spent my time trying to find a way to be - at least moderately - happy, without ignoring how screwed and awful things are. *Ignorance is bliss*, yes, but I didn't want to to live in ignorance.
+During those years, I spent my time trying to find a way to be - at least moderately - happy, without ignoring how screwed and awful things are. *Ignorance is bliss*, yes, but I didn't want to live in ignorance.
 
 It takes effort, but some years ago I found a way: making as much ethical and moral choice as possible, in short: doing and being good.
 
@@ -36,16 +36,16 @@ Today, my life is built almost exclusively around GOOD, and my life goal is to h
 
 Humanity as a whole can't be changed, you surely already noticed that, but you can at least bring good things to as much people as possible, people you know, or complete strangers (hello to the strangers reading this).
 
-It wont change the world, you wont receive anything comparable to what you gave, you will more than likely feel lonely, but in the end, it is the right thing to do. It will change *your* world.
+It won't change the world, you won't receive anything comparable to what you gave, you will more than likely feel lonely, but in the end, it is the right thing to do. It will change *your* world.
 
 
 # Conclusion
 
-I am the antithesis to most human being, I know that (which is why I am basically almost always alone). The last few years showed me that people that do the right things are rare and that it's basically never appreciated. I accept it though, again, because it's the right choice.
+I am the antithesis to most human beings, I know that (which is why I am basically almost always alone). The last few years showed me that people who do the right things are rare and that it's basically never appreciated. I accept it though, again, because it's the right choice.
 
 When the end comes, I will know that, at least, I did as much good as I could.
 
 
 # Post scriptum
 
-This blog post is deeply personal, and might be seen by some people as a proof that I am a megalomaniac, this isn't the case, but I guess my actions speak more than my word, so I invite you to check out what I do under this nickname [here](https://thefrenchghosty.me/projects/), [here](https://pussthecat.org/donate/donations/) and everywhere else on the internet.
+This blog post is deeply personal, and might be seen by some people as a proof that I am a megalomaniac, this isn't the case, but I guess my actions speak more than my words, so I invite you to check out what I do under this nickname [here](https://thefrenchghosty.me/projects/), [here](https://pussthecat.org/donate/donations/) and everywhere else on the internet.
