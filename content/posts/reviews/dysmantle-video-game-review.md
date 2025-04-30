@@ -12,9 +12,7 @@ draft: false
 - PCGamingWiki: https://www.pcgamingwiki.com/wiki/Dysmantle
 
 
-# Review
-
-A mess that doesn't know what it wants to be.
+# A mess that doesn't know what it wants to be
 
 This game's premise is great: an island "survival" game where you destroy stuff to get better tools, to destroy more stuff, with your final objective to escape the island. Simple, but efficient. It could have been great.
 
