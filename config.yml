@@ -1,6 +1,6 @@
 baseURL: https://blog.thefrenchghosty.me/
 title: TheFrenchGhosty's Blog
-paginate: 5
+pagination.pagerSize: 5
 theme: "PaperMod"
 
 enableInlineShortcodes: true
