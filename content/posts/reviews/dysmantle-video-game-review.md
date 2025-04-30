@@ -6,10 +6,10 @@ tags: ["review", "critique", "video game", "video game review"]
 draft: false
 ---
 
-Steam: https://store.steampowered.com/app/846770
-GOG: https://www.gog.com/game/dysmantle
+- Steam: https://store.steampowered.com/app/846770
+- GOG: https://www.gog.com/game/dysmantle
 
-PCGamingWiki: https://www.pcgamingwiki.com/wiki/Dysmantle
+- PCGamingWiki: https://www.pcgamingwiki.com/wiki/Dysmantle
 
 
 # Review
@@ -52,7 +52,7 @@ The only way I was able to make it enjoyable after the first 5 hours of playtime
 
 - installing a mod (Peaceful Mode) that kills every enemy as soon as they spawn (the fact that peaceful mode isn't an option in the game with the enemy loots put in stuff you can destroy is just AWFUL, this should be in the game!)
 
-- unlock (and max its upgrade) a tool (sledgehammer) that can destroy more stuff, but not everything
+- unlock (and max its upgrade) - with cheats - a tool (the sledgehammer) that can destroy more stuff, but not everything
 
 - install a mod (from nexusmods) that makes the sledgehammer bearable to use (for whatever reason it causes massive screen-shakes every time you hit something with it)
 
