@@ -18,7 +18,7 @@ This game's premise is great: an island "survival" game where you destroy stuff 
 
 The problem is that the developers didn't believe this would be good enough, so they decided to make it more interesting (read: deeper)... except they REALLY didn't know how to make interesting stuff... so they added a LOT of pointless (AND SHALLOW!) mechanics:
 
-- Temperature system: if you go too much to the north you'll freeze to death, if you go too much to the south you'll overheat. The solution? Wear a different hat and clothes if you are north or clothes, you have to use a campfire to switch clothes. Yes, that's it.
+- Temperature system: if you go too much to the north you'll freeze to death, if you go too much to the south you'll overheat. The solution? Wear a different hat and clothes if you are north or south, you have to use a campfire to switch clothes. Yes, that's it.
 
 - Day-night cycle: the game has a day-night cycle... that doesn't affect anything... except that everything has a blue tint during the night. Yes, that's it. You can sleep, sure... except this is an unlockable... you start by only being able to sleep 6 hours, then 8, then 10... and you can only sleep every 15-16... the game just refuses to allow you to sleep before that.
 
@@ -37,8 +37,8 @@ If you look at howlongtobeat, you'll see that this game is supposed to last (if 
 
 The problem is that the game doesn't have 55 hours of content... so the developers padded EVERYTHING, this is the most grindy game I ever played:
 
-- Each tool you make has upgrade levels, not 1 or 2, but 5 to 10.
-- The map is designed in a way to block path from you until you have a tool that can destroy the (stronger that you can destroy) object they used to block you, except you can go behind the stuff that's blocked... you just have to take the long route... over... and over... until you finally,  5-10 hours later unlock a tool that is strong enough to destroy the obstacle.
+- Each tool you make has upgrade levels, not 1 or 2, but 4 to 10.
+- The map is designed in a way to block path from you until you have a tool that can destroy the object (stronger that you can destroy) they used to block you, except you can go behind the stuff that's blocked... you just have to take the long route... over... and over... until you finally,  5-10 hours later unlock a tool that is strong enough to destroy the obstacle.
 - The game has quests... this should be fine except you end up with 10+ quests at once because you're often missing one item, and none of the quests are interesting, they're just here gate recipes that you can't unlock from your skill tree: meaning, you HAVE to do the quests.
 
 
