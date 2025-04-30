@@ -31,3 +31,8 @@ It also looks bad most of the time, the CGI are AWFUL and nearly constantly visi
 The morale is also just weird, especially when your main villain is a parable for Trump (that's they redeem in the end..?)... while it should be a parable for billionaires.
 
 Something broke this film, and the problem comes from the writers and the producers.
+
+
+# Rating and Recommendation
+
+3/10 - Recommended

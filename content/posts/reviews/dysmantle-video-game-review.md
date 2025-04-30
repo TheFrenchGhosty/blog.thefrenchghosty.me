@@ -60,3 +60,8 @@ All in all, this isn't a good game. This is just the only game that exists based
 
 
 PS: The game graphics almost look like an asset flip, but it's serviceable and "acceptable" (even if the developers REALLY LOVE to use fog)
+
+
+# Rating and Recommendation
+
+3/10 - Not Recommended
