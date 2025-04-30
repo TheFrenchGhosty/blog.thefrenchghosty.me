@@ -3,7 +3,7 @@ title: "Wonder Woman 1984 (2020) - Movie Review"
 date: 2025-04-22T02:32:00+02:00
 aliases: ["/wonder-woman-1984-2020-movie-review"]
 tags: ["review", "critique", "movie", "movie review"]
-draft: true
+draft: false
 ---
 
 - IMDB: https://www.imdb.com/title/tt7126948
