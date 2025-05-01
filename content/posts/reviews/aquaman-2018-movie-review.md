@@ -6,7 +6,7 @@ tags: ["review", "critique", "movie", "movie review"]
 draft: false
 ---
 
-- IMDB: https://www.imdb.com/title/tt1477834
+- IMDb: https://www.imdb.com/title/tt1477834
 - Trakt: https://trakt.tv/movies/aquaman-2018
 
 

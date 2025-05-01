@@ -6,7 +6,7 @@ tags: ["review", "critique", "movie", "movie review"]
 draft: false
 ---
 
-- IMDB: https://www.imdb.com/title/tt7126948
+- IMDb: https://www.imdb.com/title/tt7126948
 - Trakt: https://trakt.tv/movies/wonder-woman-1984-2020
 
 

@@ -6,7 +6,7 @@ tags: ["review", "critique", "movie", "movie review"]
 draft: false
 ---
 
-- IMDB: https://www.imdb.com/title/tt1386697
+- IMDb: https://www.imdb.com/title/tt1386697
 - Trakt: https://trakt.tv/movies/suicide-squad-2016
 
 

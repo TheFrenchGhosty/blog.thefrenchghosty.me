@@ -6,7 +6,7 @@ tags: ["review", "critique", "movie", "movie review"]
 draft: false
 ---
 
-- IMDB: https://www.imdb.com/title/tt7766378
+- IMDb: https://www.imdb.com/title/tt7766378
 - Trakt: https://trakt.tv/movies/the-electric-state-2025
 
 
