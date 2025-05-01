@@ -20,6 +20,8 @@ The actors are basically ALL bad, Amber Heard being the worst: literally none of
 
 A terrible movie... that isn't even a fun watch... it's just nothing.
 
+A strong contender for the worst movie I ever watched.
+
 
 # Rating and Recommendation
 
