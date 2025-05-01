@@ -1,5 +1,4 @@
-FROM docker.io/hugomods/hugo:latest as build
-#FROM docker.io/hugomods/hugo:latest as build
+FROM docker.io/hugomods/hugo:latest AS build
 COPY . /src
 RUN hugo
 
