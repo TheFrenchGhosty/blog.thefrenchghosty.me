@@ -24,7 +24,7 @@ The problem is that the developers didn't believe this would be good enough, so 
 
 - Smelting... that requires you to wait MINUTES in REAL TIME: to create some resources, you need to use a smelter... that takes minutes of REAL TIME to do the crafting. As in 15 minutes to make 6 *things*. This is literally the mechanics of a mobile pay to win game.
 
-- Fighting zombies: the world map is FILLED with zombies (by filled with it, I mean it, there's one every 10 meters in cities and one every 100 meters in the countryside), so you have to fight them with a really bad combat system: hit with melee and move back (or roll) to avoid being hit. That would be acceptable... if the enemies didn't respawn every time you used a campfire (you can get an upgrade in the end game (not before!) so that they don't respawn... except you need to get an upgrade in every single zone). 
+- Fighting zombies: the world map is FILLED with zombies (by filled with it, I mean it, there's one every 10 meters in cities and one every 100 meters in the countryside), so you have to fight them with a really bad combat system: hit with melee and move back (or roll) to avoid being hit. That would be acceptable... if the enemies didn't respawn every time you used a campfire - you can get an (expensive) upgrade in the end game (not before!) so that they don't respawn... except you need to get an upgrade in every single zone (there's a dozen of them)... 
 
 This fighting is one of the main things that RUINS THE GAME.
 
@@ -38,7 +38,7 @@ If you look at howlongtobeat, you'll see that this game is supposed to last (if 
 The problem is that the game doesn't have 55 hours of content... so the developers padded EVERYTHING, this is the most grindy game I ever played:
 
 - Each tool you make has upgrade levels, not 1 or 2, but 4 to 10.
-- The map is designed in a way to block path from you until you have a tool that can destroy the object (stronger that you can destroy) they used to block you, except you can go behind the stuff that's blocked... you just have to take the long route... over... and over... until you finally,  5-10 hours later unlock a tool that is strong enough to destroy the obstacle.
+- The map is designed in a way to block paths from you until you have a tool that can destroy the (stronger that you can destroy) obstacle they used to block you, except you can go behind the stuff that's blocked... you just have to take the long route... over... and over... until you finally, 5-10 hours later unlock a tool that is strong enough to destroy the obstacle.
 - The game has quests... this should be fine except you end up with 10+ quests at once because you're often missing one item, and none of the quests are interesting, they're just here gate recipes that you can't unlock from your skill tree: meaning, you HAVE to do the quests.
 
 

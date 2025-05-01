@@ -16,7 +16,7 @@ The only good thing I got from this movie is that it made me enjoy the physique 
 
 Margot Robbie is also the only one actually trying in this movie, so much so that I kept thinking "this movie doesn't deserve this".
 
-Other than that, it was junk with a really bad plot that didn't make any sense (the movie bad guy actually started as a good guy, but the good guy lost control of her which turned her in to the bad guy)
+Other than that, it was junk with a really bad plot that didn't make any sense (the movie's "bad guy" started as a "proof" a Suicide Squad was possible and "efficient", but the good guys lost control of her which turned her in to the "bad guy" - and the way I'm explaining it makes more sense than the way the movie does it)
 
 
 # Rating and Recommendation

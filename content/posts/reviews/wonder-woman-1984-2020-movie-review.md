@@ -28,7 +28,7 @@ I mean, it shouldn't be a superhero movie at all, the superhero part is just use
 
 It also looks bad most of the time, the CGI are AWFUL and nearly constantly visible (so many scenes in front of a green-blue screen)
 
-The morale is also just weird, especially when your main villain is a parable for Trump (that's they redeem in the end..?)... while it should be a parable for billionaires.
+The morale is also just weird, especially when your main villain is a parable for Trump (that's they redeem in the end..? That's not really liberal of Hollywood)... while it should be a parable for billionaires.
 
 Something broke this film, and the problem comes from the writers and the producers.
 
