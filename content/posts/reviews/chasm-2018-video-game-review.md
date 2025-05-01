@@ -1,5 +1,5 @@
 ---
-title: "Chasm (2018)- Video Game Review"
+title: "Chasm (2018) - Video Game Review"
 date: 2025-04-19T22:58:00+02:00
 aliases: ["/chasm-2018-video-game-review"]
 tags: ["review", "critique", "video game", "video game review"]

@@ -1,5 +1,5 @@
 ---
-title: "Dysmantle (2021)- Video Game Review"
+title: "Dysmantle (2021) - Video Game Review"
 date: 2025-04-30T13:04:47+02:00
 aliases: ["/dysmantle-2021-video-game-review"]
 tags: ["review", "critique", "video game", "video game review"]
