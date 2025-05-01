@@ -36,4 +36,4 @@ PS: I do find it highly ironic that a game that is a love letter to bugs and nat
 
 # Rating and Recommendation
 
-3/10 - Not Recommended
+2/10 - Not Recommended
