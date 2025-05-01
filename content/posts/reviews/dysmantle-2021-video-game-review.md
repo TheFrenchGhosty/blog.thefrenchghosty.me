@@ -6,7 +6,7 @@ tags: ["review", "critique", "video game", "video game review"]
 draft: false
 ---
 
-- Steam: https://store.steampowered.com/app/846770
+- Steam: https://store.steampowered.com/app/846770/DYSMANTLE/
 - GOG: https://www.gog.com/game/dysmantle
 
 - PCGamingWiki: https://www.pcgamingwiki.com/wiki/Dysmantle
