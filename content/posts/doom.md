@@ -2,7 +2,7 @@
 title: "I finally completed the original Doom games"
 date: 2023-05-04T18:00:00+02:00
 aliases: ["/doom"]
-tags: ["art","video games"]
+tags: ["art","video game"]
 draft: false
 ---
 
