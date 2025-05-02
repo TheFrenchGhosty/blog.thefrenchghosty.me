@@ -1,6 +1,5 @@
 baseURL: https://blog.thefrenchghosty.me/
 title: TheFrenchGhosty's Blog
-pagination.pagerSize: 5
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -14,29 +13,32 @@ pygmentsUseClasses: true
 minify:
     minifyOutput: false
 
+pagination:
+  pagerSize: 5
+
 languages:
-    en:
-        languageName: "English"
-        weight: 1
-        taxonomies:
-          category: categories
-          tag: tags
-          series: series
-        menu:
-            main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: Website
-                  url: https://thefrenchghosty.me/
-                - name: Wiki
-                  url: https://wiki.thefrenchghosty.me/
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Website
+          url: https://thefrenchghosty.me/
+        - name: Wiki
+          url: https://wiki.thefrenchghosty.me/
 
 # Needed for search https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#search-page
 outputs:
