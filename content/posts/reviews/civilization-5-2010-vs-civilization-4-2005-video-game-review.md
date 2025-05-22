@@ -23,9 +23,9 @@ Sid Meier's Civilization 4 (2005):
 
 # A more enjoyable, worse game
 
-I haven't played Civilization 5 until this May 2025 because when it originally released (15 years ago... time flies...) I kept hearing that it was a FAR worse game compared to Civilization 4. Years passed, and following the DLCs release I started to hear that it might have become finally good, and might even surpass Civilization 4.
+I haven't played Civilization 5 until this May 2025 because when it originally released (15 years ago... time flies...) I kept hearing that it was a FAR worse game compared to Civilization 4. Years passed and following the DLCs release I started to hear that it might have become finally good, and might even surpass Civilization 4.
 
-While doing research to find a Civilization to "go back to" (I haven't played a Civilization game in at least 10 years) I decided to do a play-through of 4 (with every DLCs), followed by a play-through of 5 (with every DLCs).
+After doing research to find a Civilization game to "go back to" (I haven't played a Civilization game in at least 10 years) I ended up deciding to do a play-through of 4 (with every DLCs), followed by a play-through of 5 (with every DLCs).
 
 From the surface, I don't disagree with the premise that Civilization 5 surpassed Civilization 4.
 
@@ -34,10 +34,10 @@ From the surface, I don't disagree with the premise that Civilization 5 surpasse
 
 Civilization 5 compared to 4 is more enjoyable to play:
 
-- the UI/UX is better (though it's missing a UI for the space victory, to know your progress in it, you have to go through a highly unclear menu, and, from what I found, do the math yourself for the number of boosters)
+- the UI/UX is better (though it's missing a UI for the space victory which was in 4: a UI that shows your progress in the space victory by showing you which spaceship part you have and which you don't. In 5, you have to go through a highly unclear menu, and, from what I found, do the math yourself for the number of boosters)
 - the way it looks is more enjoyable
-- hexagons instead of squares is genuine better
-- the unit "stacking" being gone is genuinely a good thing (even if the AI gets worse because of it)
+- hexagons instead of squares is genuinely better
+- the unit "stacking" being gone is genuinely a good thing (even if the AIs get worse because of it)
 
 ...but it's also a far worse "game".
 
