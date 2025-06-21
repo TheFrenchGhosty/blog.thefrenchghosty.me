@@ -33,7 +33,7 @@ That's one of the main problem with the game: none of the "bad choice" you do ha
 - have been eating the most basic food (literally sludge) made with dirt and water filed with germs
 - are constantly going to places they can't breathe in 
 
-None of this caused any meaningful consequences: none of my duplicants died, none of my duplicants had any problems... other than potentially (?) some things being down slower, and some of their status bars being red.
+None of this caused any meaningful consequences: none of my duplicants died, none of my duplicants had any problems... other than potentially (?) some things being done slower, and some of their status bars being red.
 
 That's the main difference to RimWorld: In RimWorld, things have consequences, if you "abuse" your colonist they get mental breakdown, if you don't prepare "enough" you get decimated when enemies raid you.
 
