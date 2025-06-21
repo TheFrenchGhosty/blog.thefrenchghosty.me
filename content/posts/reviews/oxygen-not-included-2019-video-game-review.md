@@ -11,7 +11,7 @@ draft: false
 - PCGamingWiki: https://www.pcgamingwiki.com/wiki/Oxygen_Not_Included
 
 
-# Broad but shallow.
+# Broad but shallow
 
 This game feels like a weird modded RimWorld: take RimWorld, move the view to the side, remove the enemies and add Oxygen (and gas) management.
 
