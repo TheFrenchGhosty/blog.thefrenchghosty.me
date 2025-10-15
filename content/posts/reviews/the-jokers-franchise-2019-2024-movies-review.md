@@ -1,6 +1,6 @@
 ---
 title: "The Joker's franchise (2019-2024) - Movies Review"
-date: 2025-09-24T06:40:00+02:00
+date: 2025-10-15T09:15:00+02:00
 aliases: ["/the-jokers-franchise-2019-2024-movies-review"]
 tags: ["review", "critique", "movie", "movie review"]
 draft: false
