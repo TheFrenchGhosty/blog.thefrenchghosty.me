@@ -118,10 +118,13 @@ All in all, it was far worse than I remember. The script was passable, but the r
 
 A movie I've already seen before, 2 or 3 times, the first time was a year or two after release and the last time was more than 5 years ago.
 
-The best MCU origin story in terms of pure "cinematic quality", the first half is effectively a full-on war movie (and a good one at that!). The second half falls a bit in terms of quality, but still remains pretty solid. 
+The best MCU origin story in terms of pure "cinematic quality", the first half is effectively a full-on war movie (and a good one at that!). The second half falls a bit in terms of quality, but still remains pretty solid. It's one of the only Marvel movie that doesn't feel like one (at least for the first hour).
 
-I don't really have much to say honestly. It's a pretty good movie, and should be what every MCU should aspire to be: "fine" with a high point (the high point in this one being the whole first half).
+I don't really have much to say honestly. It's a pretty good movie all along outside of the (obligatory) boring CGI fight scenes at the end (though they are thankfully short and diverse).
 
+It should be what every MCU should aspire to be: "fine" with a high point (the high point in this one being the whole first half).
+
+It's one of the better MCU movie, and honestly, probably the best in Phase one.
 
 Post-Scriptum: The post-credit scene made me kinda chuckle... it's a full-on movie trailer for Avengers... with a release date and everything... which is... so weird and amateurish, especially since it was released like that on Blu-ray.
 
