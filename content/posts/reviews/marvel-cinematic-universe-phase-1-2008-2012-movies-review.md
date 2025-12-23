@@ -120,7 +120,7 @@ A movie I've already seen before, 2 or 3 times, the first time was a year or two
 
 The best MCU origin story in terms of pure "cinematic quality", the first half is effectively a full-on war movie (and a good one at that!). The second half falls a bit in terms of quality, but still remains pretty solid. It's one of the only Marvel movie that doesn't feel like one (at least for the first hour).
 
-I don't really have much to say honestly. It's a pretty good movie all along outside of the (obligatory) boring CGI fight scenes at the end (though they are thankfully short and diverse).
+I don't really have much to say honestly. It's a pretty good movie all around outside of the (obligatory) boring CGI fight scenes at the end (though they are thankfully short and diverse).
 
 It should be what every MCU should aspire to be: "fine" with a high point (the high point in this one being the whole first half).
 
