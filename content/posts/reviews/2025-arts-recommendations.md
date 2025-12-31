@@ -89,7 +89,7 @@ A really obscure comedy show that seems to have flopped about an American guy go
 - IMDb: https://www.imdb.com/title/tt0367279
 - Trakt: https://trakt.tv/shows/arrested-development
 
-A classic show for a reason, but a really flawed one. Season 1 and 2 are, in my opinion, the best comedy show. season 3 goes wobbly with a really bad side story (the MRF / Sharon Stone part). Season 4 and 5 are worse, but are still worth a watch for the characters.
+A classic show for a reason, but a really flawed one. Season 1 and 2 are, in my opinion, the best comedy show. Season 3 goes wobbly with a really bad side story (the MRF / Sharon Stone parts). Season 4 and 5 are worse (but never as bad as the Season 3 MRF parts), but are still worth a watch for the characters.
 
 7/10 - Recommended
 
