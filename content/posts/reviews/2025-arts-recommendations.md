@@ -26,7 +26,7 @@ Spoilers will be minimal!
 
 # Movies
 
-## Please Stand By (2018):
+## Please Stand By (2018)
 
 - IMDb: https://www.imdb.com/title/tt4652650
 - Trakt: https://trakt.tv/movies/please-stand-by-2018
@@ -38,7 +38,7 @@ An amazing movie about an autistic woman with a dream, a road trip across the US
 9/10 - Recommended
 
 
-## Dinner in America (2020):
+## Dinner in America (2020)
 
 - IMDb: https://www.imdb.com/title/tt9058654
 - Trakt: https://trakt.tv/movies/dinner-in-america-2020
@@ -50,7 +50,7 @@ A punk love story, about a punk guy, meeting a nerdy girl that wasn't that nerdy
 9/10 - Recommended
 
 
-## The Princess Bride (1987):
+## The Princess Bride (1987)
 
 - IMDb: https://www.imdb.com/title/tt0093779
 - Trakt: https://trakt.tv/movies/the-princess-bride-1987
@@ -62,7 +62,7 @@ Simply a masterpiece, a cult movie that tries to subvert the rom-com adventure a
 
 # TV Shows
 
-## Santa Clarita Diet (2017-2019 - Cancelled):
+## Santa Clarita Diet (2017-2019 - Cancelled)
 
 - IMDb: https://www.imdb.com/title/tt5580540
 - Trakt: https://trakt.tv/shows/santa-clarita-diet
