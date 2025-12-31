@@ -121,7 +121,9 @@ One of the best games I've ever played. Too bad the studio that made it was boug
 
 (Proper indie game)
 
-An (easy-ish) tactics RPG made on RPG Maker that's actually amazing. The favorite game of one of my friends, and with reason. It has a lot of deep (and mostly optional) systems, amazing gameplay, a story that seems to be here for you to skip it.
+An (easy-ish) tactics RPG made on RPG Maker that's actually amazing. The favorite game of one of my friends, and with reason. 
+
+It has a lot of deep (and mostly optional) systems, amazing gameplay, a story that seems to be here for you to skip it.
 
 The only flaw... literally just the engine, RPG Maker isn't made for something this complicated. If you can accept this flaw, you're in for a treat!
 
@@ -161,6 +163,7 @@ I'm gonna use Spotify links because Spotify is one of the only music "databases"
 ## dlb (Russian Pop/Hip-Hop/Electronica)
 
 YouTube: https://www.youtube.com/channel/UCwtQ9WInVN2INeGfj_9Rsbw
+
 Spotify: https://open.spotify.com/artist/1na8hI8tGXjXRf0U5gX3iX
 
 (Proper indie group)
@@ -174,13 +177,16 @@ YouTube: https://www.youtube.com/watch?v=fSY7ecKyfuU
 - romanov.dlb - Cringe:
 
 YouTube: https://www.youtube.com/watch?v=sP_BQRDSaVc
+
 Spotify: https://open.spotify.com/album/6sJfJiym550mgUIzMJ9D2l
 
 
 ## El Tigr3 (Synthwave/Retrowave/Electronica)
 
 YouTube: https://www.youtube.com/channel/UCmgKPcqFtsGdoMffS4qLJmg
+
 Spotify: https://open.spotify.com/artist/0Z43xNK0ZhtPW2eKi1L1OP
+
 Bandcamp: https://eltigre.bandcamp.com/
 
 (Proper indie artist)
@@ -189,31 +195,38 @@ Bandcamp: https://eltigre.bandcamp.com/
 - El Tigr3 - Ride Home
 
 YouTube: https://www.youtube.com/watch?v=rfkFlchmDQE
+
 Spotify: https://open.spotify.com/track/2jjPXDNrDOEZv8msRXzslo
+
 Bandcamp: https://eltigre.bandcamp.com/track/ride-home
 
 
 - El Tigr3 - Waiting to Die
 
 YouTube: https://www.youtube.com/watch?v=zIhBfKSGxy8
+
 Spotify: https://open.spotify.com/track/3mS7M9U8oKBVMwDYUhsmh9
+
 Bandcamp: https://eltigre.bandcamp.com/track/waiting-to-die
 
 
 ## Norman Pain (England Hip-Hop / Rap)
 
 YouTube: https://www.youtube.com/channel/UChD9-arQYhKrEuInyqtJWWA
+
 Spotify: https://open.spotify.com/artist/0rKh0IgCulpJ8HtGAwe3Vd
 
 - Norman Pain - Sonnet
 
 YouTube: https://www.youtube.com/watch?v=_8N-g8nBQsQ
+
 Spotify: https://open.spotify.com/track/3c7o3PtgobujO2OFegNYFw
 
 
 - Norman Pain - What it's worth
 
 YouTube: https://www.youtube.com/watch?v=hYSItlWvu0c
+
 Spotify: https://open.spotify.com/album/27z8YEbZLetP4pF147cr9U
 
 
