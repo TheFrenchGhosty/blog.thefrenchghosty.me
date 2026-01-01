@@ -160,7 +160,10 @@ I'll keep it brief, so I'll just recommend groups/artists with one or two tracks
 I'm gonna use Spotify links because Spotify is one of the only music "databases" where the artists with identical names are separated, and for some of the indie ones, it's necessary... but don't use Spotify.
 
 
-## dlb (Russian Pop/Hip-Hop/Electronica)
+## dlb (sometimes listed as DLB or длб) (Russian Hardcore/Pop/Hip-Hop/Electronica)
+
+
+Note: It's a Russian group that use the Latin or Cyrillic alphabet interchangeably. Most of their tracks have a title in one or the other, but some of them have a title in both, making it effectively have have two titles. The magic of small indie groups!
 
 YouTube: https://www.youtube.com/channel/UCwtQ9WInVN2INeGfj_9Rsbw
 
@@ -172,6 +175,17 @@ Spotify: https://open.spotify.com/artist/1na8hI8tGXjXRf0U5gX3iX
 - dlb - ultrachocolate
 
 YouTube: https://www.youtube.com/watch?v=fSY7ecKyfuU
+
+
+- dlb - начальник
+
+YouTube: https://www.youtube.com/watch?v=wSiNZ-Xcuqw
+
+Spotify: https://open.spotify.com/track/5bvIUzA4D2hMEEBmQ2X2kc
+
+
+
+Bonus track: Romanov is one of the band members, and like the other band members, makes music under its own name sometimes (often with the other members as featuring)
 
 
 - romanov.dlb - Cringe:
