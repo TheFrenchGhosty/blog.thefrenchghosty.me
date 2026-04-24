@@ -24,7 +24,7 @@ So I fixed the UI by only using them for scrobble and making my own UI from thei
 I didn't want to depend on any plugins or anything that wasn't portable - and I wanted the file to be human-readable even "un-rendered" - which is why I went this route instead of anything that depends on specific software.
 
 
-# AI Acknoledgement
+# AI Acknowledgement
 
 This was made with the help of LLM, a lot of it was still "human" made.
 
