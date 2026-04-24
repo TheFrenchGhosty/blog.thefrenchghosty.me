@@ -13,8 +13,8 @@ This blog post exists to announce that I have a [new project](https://github.com
 
 Trakt (the movies/shows tracker) has recently gone the enshitification route:
 
-- Their new UI is awful: It's missing specific views (like season view for TV shows), the list of my comments/reviews is gone, ratings are now out of 5... for reasons... seeing your watch history is now done 1 week at a time, you can't rate seasons anymore... and so much more.
-- People are complaining about it, but the staff isn't listening (and actually banned a lot of people from their forums)... 
+- Their new UI is awful: It's missing specific views (like season view for TV shows), the list of your comments/reviews is gone, ratings are now out of 5... for reasons... seeing your watch history is now done 1 week at a time, you can't rate seasons anymore... and so much more.
+- People are complaining about it, but the staff isn't listening (and actually banned a lot of people from their forums... and often from the actual website too)... 
 - It also removed features and became hostile to free users (then again, paid users also lost features, like automatic data export - and some of the banned people were paid users).
 - This is probably the (second) worst UI redesign I ever saw. It feels (and surely is) vibe coded...
 
