@@ -3,7 +3,7 @@ title: "I was a guest on Brodie Robertson's Tech Over Tea podcast"
 date: 2024-03-26T18:33:08+01:00
 aliases: ["/tech-over-tea"]
 tags: ["invidious", "FOSS", "software"]
-draft: false
+draft: true
 ---
 
 # Context
