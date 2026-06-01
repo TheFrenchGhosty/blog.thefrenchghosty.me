@@ -2,7 +2,7 @@
 title: "AV2: the new video codec that is (yet again) gonna be an environmental disaster"
 date: 2026-06-01T10:55:00+02:00
 aliases: ["/av2"]
-tags: ["FOSS", "software", "service"]
+tags: ["FOSS", "software", "politics"]
 draft: false
 ---
 
