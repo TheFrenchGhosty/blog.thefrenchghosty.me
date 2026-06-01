@@ -68,7 +68,7 @@ My point really is that they need to stick to a format for more than 10 years.
 
 Give people time to actually have hardware to support it.
 
-I know the people working on it are millionaire tech bros, but the vast majority of people aren't, and even I, while being massively passionate about technology and media, only got my first device that could play AV9 last year and still have some devices that can't.
+I know the people working on it are millionaire tech bros, but the vast majority of people aren't, and even I, while being massively passionate about technology and media, only got my first device that could play AV1 last year and still have some devices that can't.
 
 Also, up until last year, one of my main devices couldn't play 1080p VP9.
 
@@ -85,12 +85,12 @@ Obviously this is all about money, money talks and a new codec:
 
 Forcing new codecs is basically Intel/Nvidia/ARM/AMD (and basically all the companies that sell hardware) way of making you (us) buy new hardware, and this is a way for Google/Netflix to save money.
 
-CPUs have been good enough for almost everything for at least ten years. The only thing that got better realistically is power consumption, but outside of that, it's only pushing (forcing) people to upgrade.
+CPUs have been good enough for almost everything for at least ten years. The only thing that got better realistically is power consumption, but outside of that, it's only codecs pushing (forcing) people to upgrade.
 
 
 # An Environmental Disaster
 
-Technology aside and buying your hardware aside, this is a massive environmental disaster. This is forcing people to upgrade perfectly working hardware just to play videos. This is all about making people buy new hardware: just to play videos. Hardware that ends up replacing the previous hardware, even though it was perfectly working. This creates a massive amount of e-waste for literally no reason other than corporations making money.
+Technology aside and buying your hardware aside, this is a massive environmental disaster. This is forcing people to upgrade perfectly working hardware just to play videos. This is all about making people spent more money on new hardware just to play videos. Hardware that ends up replacing the previous hardware, even though it was perfectly working. This creates a massive amount of e-waste for literally no reason other than corporations making money.
 
 
 # A Social Disaster
