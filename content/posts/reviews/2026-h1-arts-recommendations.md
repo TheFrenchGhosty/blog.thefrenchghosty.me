@@ -23,7 +23,7 @@ I've watched far less movies and played far less video games in the last few mon
 
 Due to this fact, what I've enjoyed the last few months has been mostly "light" or "comedic" stuff, because that's what I've needed since it happened.
 
-Some stuff (mostly the movies) is mostly from before the fallout happened.
+Some recommendations are from before the fallout happened.
 
 
 # Movies
